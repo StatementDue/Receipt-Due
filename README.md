@@ -1,1 +1,1 @@
-# Receipt-Due
+Receipt-Due
